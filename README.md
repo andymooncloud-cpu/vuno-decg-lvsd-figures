@@ -1,2 +1,2 @@
 # vuno-decg-lvsd-figures
-DeepECG-LVSD clinical study figures (peer-reviewed pulished)
+DeepECG-LVSD clinical study figures (peer-reviewed published)
